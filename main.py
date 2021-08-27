@@ -1,0 +1,5 @@
+name = str(input("姓名："))
+age = str(input("年龄："))
+profession = str(input("职业："))
+print(name + "，" + age + "岁" + "，" + "是一名" + profession, end="\n")
+print("再见" + "，" + age + "岁的" + name + "。")
